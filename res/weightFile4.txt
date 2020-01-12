@@ -1,0 +1,3 @@
+February,3,Squats,110,10,2,
+February,6,Squats,80,13,2,
+February,14,Squats,150,10,3,
